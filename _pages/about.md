@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Univsersity of Michigan</a>. dacarte@umich.edu. Moto. Etc.
 
 profile:
   align: right
